@@ -11,3 +11,5 @@ Download it and open it.
 It contans the compiled version of the game and you can play it.
 
 Preview:
+
+<img src="https://github.com/chandran-jr/tetris/blob/master/tertrs.PNG">
