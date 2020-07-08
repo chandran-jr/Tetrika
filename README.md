@@ -12,4 +12,4 @@ It contans the compiled version of the game and you can play it.
 
 Preview:
 
-<img src="https://github.com/chandran-jr/tetris/blob/master/tertrs.PNG" width=330px padding-right=100px>  <img src="https://github.com/chandran-jr/tetris/blob/master/tet.PNG" width=330px>
+<img src="https://github.com/chandran-jr/tetris/blob/master/tertrs.PNG" width=500px padding-right=100px>  <img src="https://github.com/chandran-jr/tetris/blob/master/tet.PNG" width=499px>
